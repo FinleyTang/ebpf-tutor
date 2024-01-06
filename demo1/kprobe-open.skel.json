@@ -1,0 +1,1 @@
+{"bpf_skel":{"data_sections":[],"maps":[{"ident":"rodata","name":"kprobe_o.rodata"}],"obj_name":"kprobe_open_bpf","progs":[{"attach":"kprobe/do_openat","link":true,"name":"do_openat"}]},"eunomia_version":"0.3.4"}
